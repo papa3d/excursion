@@ -28,9 +28,20 @@ h2 {
     font-size: 0.84rem;
     font-weight: 300;
     margin-top: 0px;
+    margin-bottom: 10px;
 }
 
 h4 {
     color: gray;
     font-size: 0.42rem;
+}
+
+.img-container {
+    display: grid;
+    align-items: center;
+    justify-items: center;
+}
+
+.img-container img {
+    padding-bottom: 20px;
 }
