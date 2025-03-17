@@ -45,3 +45,8 @@ h4 {
 .img-container img {
     padding-bottom: 20px;
 }
+
+footer {
+    color: gray;
+    text-align: right;
+}
