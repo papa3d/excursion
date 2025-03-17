@@ -1,1 +1,22 @@
-ECHO is on.
+html {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    text-align: center;
+    font-size: 50px;
+    font-weight: normal;
+}
+
+body {
+    background-color: black;
+    color: white;
+}
+
+a {
+    font-size: 0.32rem;
+    color: aquamarine;
+}
+
+h1 {
+    margin-bottom: 10px;
+    font-size: 1rem;
+}
+
